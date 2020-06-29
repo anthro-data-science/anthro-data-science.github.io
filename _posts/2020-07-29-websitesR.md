@@ -1,0 +1,9 @@
+---
+title: Making free websites with RStudio's R Markdown & Blogdown
+text: Delaney Glass & Ben Marwick 
+location: remote
+date: 2020-07-29
+startTime: '09:00'
+endTime: '11:00'
+
+---

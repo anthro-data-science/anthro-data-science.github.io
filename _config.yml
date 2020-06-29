@@ -1,0 +1,52 @@
+#Setup ~~~
+#Follow these 2 steps to set up your site.
+
+#Step 1: give your study group a name and a short description,
+#and choose a language from the options in the _data directory:
+title: anthro-data-science
+description: "Anthro-data-science study group"
+language: en
+
+#Step 2: press the green 'Commit Changes' button at the bottom of this page.
+
+# That's it, your website is all set up!
+# You can see it at https://YourUserName.github.io/studyGroup/
+# No need to change anything below this line.
+# To make your first event, check out the instructions at https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
+# Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
+
+# Optional Configuration
+# None of these things need to be changed - but feel free!
+
+titleBackground: "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2770&q=80"
+headlineSmall: "An anthropology data science study group at UW"
+headlineMain: "Let's Work Together"
+
+# Setup Google Calendar
+# Usage:
+# 1. create a new google account; set the calendar to 'public'
+# 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
+# 3. set calendar_on: True.
+
+calendar_on: False
+calendar_embed_url: "https://calendar.google.com/calendar/b/1?cid=bmNlYXMudWNzYi5lZHVfdnUzbHQzN3Q0YzN1ZzFtZ2k0cDE4NjRyOHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
+
+# Setup survey
+# Set survey_url to No (no quotes) if disabled
+# I changed this to the github issues url instead of a survey.
+survey_url: "https://groups.google.com/forum/#!forum/eco-data-science"
+
+#========================================
+# No touching anything below this line :)
+#========================================
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 333
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+future: true

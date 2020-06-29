@@ -1,0 +1,43 @@
+---
+whatWeDo: What We Do
+events: Events
+contact: Contact
+tellMeMore: Tell Me More
+
+activitiesSubheading: 'And you can, too!'
+activities:
+  - title: Skill Sharing
+    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+    icon: fa-comment
+  - title: Co-Working
+    description: 'Get together to work on your coding projects, help each other out and share your work.'
+    icon: fa-laptop
+  - title: Community Building
+    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    icon: fa-group
+
+events: Upcoming Sessions
+eventsSubheading: Unless otherwise noted, all sessions will be held in the UW Anthropology Department, located in Denny Hall.
+eventPlaceholder: Nothing yet! Propose an event here.
+suggestEvent: Suggest an Event
+leadership: How to lead a session
+pastEvents: Previous sessions
+
+notification: Want to be notified of our upcoming events?
+watching: 'Join our <a href="https://groups.google.com/forum/#!forum/eco-data-science">Google Group</a>'
+watchingCaption: ''
+
+calendar: Subscribe to our events calendar!
+calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
+googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
+iCal: ''
+
+sayHi: Come Say Hi
+contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
+contact: Talk To Us
+
+teamHeadline: Who We Are
+teamSubheading: "We're environmental scientists, students and researchers who want to work and learn together! We have over 100 members and counting. Here are members who have led sessions: "
+interests: Interests
+
+codeOfConduct: Study Group Code of Conduct
