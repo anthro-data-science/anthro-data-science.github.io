@@ -29,7 +29,7 @@ headlineMain: "Let's Work Together"
 # 3. set calendar_on: True.
 
 calendar_on: False
-calendar_embed_url: "https://calendar.google.com/calendar/b/1?cid=bmNlYXMudWNzYi5lZHVfdnUzbHQzN3Q0YzN1ZzFtZ2k0cDE4NjRyOHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+calendar_embed_url: "https://calendar.google.com/calendar/embed?src=uw.edu_3qr3jdah11mh9fhtscsni2lb9s%40group.calendar.google.com&ctz=America%2FLos_Angeles"
 calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
 
 # Setup survey
