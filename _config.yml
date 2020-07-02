@@ -4,7 +4,7 @@
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
 title: anthro-data-science
-description: "Anthro-data-science study group"
+description: "Anthro-data-science working group"
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -19,7 +19,7 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2770&q=80"
-headlineSmall: "An anthropology data science study group at UW"
+headlineSmall: "An anthropology data science working group at UW"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
