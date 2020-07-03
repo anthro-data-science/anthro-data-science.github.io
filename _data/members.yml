@@ -4,22 +4,33 @@
   interests:
     - Archaeology
     - Data Science
-    - reproducible research
-    - open data
+    - Reproducible research
+    - Open data
 - name: Delaney J. Glass
   affiliation: Department of Anthropology, UW, Seattle
   github: dglassuw
   interests:
     - Biocultural Anthropology
     - Data Science
-    - mixed methods
-    - reproducible research
-    - science communication
+    - Mixed methods
+    - Reproducible research
+    - Science communication
 - name: Liying Wang
   affiliation: Department of Anthropology, UW, Seattle
   github: LiYingWang
   interests:
     - Archaeology
     - Data Science
-    - reproducible research
-    - open data
+    - Reproducible research
+    - Open data
+- name: Gayoung Park
+  affiliation: Department of Anthropology, UW, Seattle
+  github: parkgayoung
+  interests:
+    - Archaeology
+    - Data Science
+    - Open Data
+    - Human Behavioral Ecology
+    - Public Archaeology
+
+
