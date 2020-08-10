@@ -4,7 +4,7 @@
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
 title: anthro-data-science
-description: "Anthro-data-science study group"
+description: "Anthro-data-science working group"
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -19,7 +19,7 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2770&q=80"
-headlineSmall: "An anthropology data science study group at UW"
+headlineSmall: "An anthropology data science working group at UW"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
@@ -28,9 +28,9 @@ headlineMain: "Let's Work Together"
 # 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
 # 3. set calendar_on: True.
 
-calendar_on: False
-calendar_embed_url: "https://calendar.google.com/calendar/b/1?cid=bmNlYXMudWNzYi5lZHVfdnUzbHQzN3Q0YzN1ZzFtZ2k0cDE4NjRyOHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
-calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
+calendar_on: True
+calendar_embed_url: "https://calendar.google.com/calendar/embed?src=uw.edu_3qr3jdah11mh9fhtscsni2lb9s%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+calendar_ical_url: "https://www.google.com/calendar/ical/Anthro-Data Science-Calendar@gmail.com/public/basic.ics"
 
 # Setup survey
 # Set survey_url to No (no quotes) if disabled

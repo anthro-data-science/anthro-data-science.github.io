@@ -1,8 +1,57 @@
+# Graduate students and post-docs at the start of the list
+- name: Delaney J. Glass
+  affiliation: Department of Anthropology, UW, Seattle
+  github: dglassuw
+  interests:
+    - Biocultural Anthropology
+    - Growth & Development
+    - Puberty & Adolescence
+    - Data Science
+    - Mixed methods
+    - Reproducible research
+    - Science communication
+- name: Liying Wang
+  affiliation: Department of Anthropology, UW, Seattle
+  github: LiYingWang
+  interests:
+    - Archaeology
+    - Data Science
+    - Reproducible research
+    - Open data
+- name: Gayoung Park
+  affiliation: Department of Anthropology, UW, Seattle
+  github: parkgayoung
+  interests:
+    - Archaeology
+    - Data Science
+    - Open Data
+    - Human Behavioral Ecology
+    - Public Archaeology
+- name: Anwesha Pan
+  affiliation: Department of Anthropology, UW, Seattle
+  github: anweshapan
+  interests:
+    - Biological Anthropology
+    - Data Science
+    - Reproductive ecology 
+    - Maternal and child health 
+    - South Asia 
+# Faculty at the end of the list
 - name: Ben Marwick
   affiliation: Department of Anthropology, UW, Seattle
   github: benmarwick
   interests:
     - Archaeology
     - Data Science
-    - reproducible research
-    - open data
+    - Reproducible research
+    - Open data
+- name: Melanie Martin
+  affiliation: Department of Anthropology, UW, Seattle
+  github: melaamartin
+  interests:
+    - Biocultural Anthropology
+    - Growth, development, and reproduction
+    - Reproductive ecology
+    - Community based participatory research
+
+

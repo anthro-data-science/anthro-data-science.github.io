@@ -3,6 +3,7 @@ whatWeDo: What We Do
 events: Events
 contact: Contact
 tellMeMore: Tell Me More
+team: Who We Are
 
 activitiesSubheading: 'And you can, too!'
 activities:
@@ -17,8 +18,8 @@ activities:
     icon: fa-group
 
 events: Upcoming Sessions
-eventsSubheading: Unless otherwise noted, all sessions will be held in the UW Anthropology Department, located in Denny Hall.
-eventPlaceholder: Nothing yet! Propose an event here.
+eventsSubheading: Unless otherwise noted, all sessions will be held remotely via Zoom.
+eventPlaceholder: Introduction to Github (August 26th 9am-11am PST)
 suggestEvent: Suggest an Event
 leadership: How to lead a session
 pastEvents: Previous sessions
