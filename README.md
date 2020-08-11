@@ -61,7 +61,7 @@ When you're ready to list a new event for your Study Group, follow these steps, 
      - Where will your event be? Include a link to a map.
      - When will it be? Date and time.
      - Should people do anything to prepare beforehand (install any dependencies, set something up?)
- 2. **Go to the `_posts` directory**. It'll be at `https://github.com/yourUserName/studyGroup/tree/gh-pages/_posts` - or you can click on `_posts` in your repo.
+ 2. **Go to the `_posts` directory**. It is at `https://github.com/anthro-data-science/anthro-data-science.github.io/tree/master/_posts - or you can click on `_posts` in your repo.
  3. **Make a new file** by clicking on the `+` sign beside `_posts/` Name it like the following:
 
     ```
