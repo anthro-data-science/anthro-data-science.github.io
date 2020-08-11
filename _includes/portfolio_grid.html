@@ -90,6 +90,28 @@
             {% if site.calendar_on %}
             <div class="col-lg-6">
               <h3 class="section-heading eventInstructions">{{site.data[site.language].calendar}}</h3>
+              
+<form
+  action="https://formspree.io/xrgydqla"
+  method="POST">
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+    <input type="hidden" name="_cc" value="dglass1@uw.edu" />
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+<!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+              
+              
+              
+              
               <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].calendarSubheading | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
               <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].googleCalendar | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
               <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].iCal | replace: '%CALENDAR_ICAL_URL%', site.calendar_ical_url}}</h3>
@@ -98,21 +120,5 @@
         </div>
         <!-- modify this form HTML and place wherever you want your form -->
 
-<form
-  action="https://formspree.io/xrgydqla"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
 
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
-    </section>
+</section>
