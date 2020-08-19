@@ -1,5 +1,5 @@
 ---
-title: Intro to Git and Github for Anthropologists
+title: Intro to Git and Github 
 text: Liying Wang, Anwesha Pan, Gayoung Park, Delaney Glass
 location: remote
 date: 2020-08-26
