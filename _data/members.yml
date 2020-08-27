@@ -35,7 +35,16 @@
     - Data Science
     - Reproductive ecology 
     - Maternal and child health 
-    - South Asia 
+    - South Asia
+- name: Shane A. Scaggs
+  affiliation: Department of Anthropology, Ohio State University, Columbus
+  github: sascaggs
+  interests:
+    -ecological anthropology
+    -subsistence diversity
+    -network analysis
+    -complex systems
+    -statistical modeling
 # Faculty at the end of the list
 - name: Ben Marwick
   affiliation: Department of Anthropology, UW, Seattle
@@ -53,12 +62,3 @@
     - Growth, development, and reproduction
     - Reproductive ecology
     - Community based participatory research
-- name: Shane A. Scaggs
-  affiliation: Department of Anthropology, Ohio State University, Columbus
-  github: sascaggs
-  interests:
-    -ecological anthropology
-    -subsistence diversity
-    -network analysis
-    -complex systems
-    -statistical modeling
