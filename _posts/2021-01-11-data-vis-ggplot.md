@@ -1,6 +1,6 @@
 ---
-title: Intro to data visualisation 'ggplot'
-text: Li-Ying Wang, Gayoung Park, Delaney Glass, Shane Scaggs & Ben Marwick
+title: Intro to data visualisation 'ggplot2'
+text: Liying Wang, Gayoung Park, Delaney Glass, Shane Scaggs & Ben Marwick
 location: remote
 date: 2021-01-11
 startTime: '09:00'
