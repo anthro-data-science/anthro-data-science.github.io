@@ -27,18 +27,18 @@
     - Open Data
     - Human Behavioral Ecology
     - Public Archaeology
- - name: Taylor van Doren
-  affiliation: 
-  github: 
-  interests:
-    - Anthropology
-    - Data Science
- - name: Luisa Rivera
-  affiliation: 
-  github: 
-  interests:
-    - Anthropology
-    - Data Science
+ #- name: Taylor van Doren
+ # affiliation: 
+ # github: 
+ # interests:
+ #   - Anthropology
+ #   - Data Science
+ #- name: Luisa Rivera
+ # affiliation: 
+ # github: 
+ # interests:
+ #   - Anthropology
+ #   - Data Science
 - name: Anwesha Pan
   affiliation: Department of Anthropology, UW, Seattle
   github: anweshapan
